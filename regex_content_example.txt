@@ -1,0 +1,19 @@
+# Danh sách người dùng
+1. Họ và tên: Nguyễn Văn A
+   Email: nguyenvana@example.com
+   SĐT: 0987-654-321
+   Địa chỉ: 123 Đường ABC, Quận 1, TP.HCM
+
+2. Họ và tên: Trần Thị B
+   Email: tranthib@example.net
+   SĐT: (024) 1234 5678
+   Địa chỉ: 456 Đường XYZ, Quận 2, Hà Nội
+
+3. Họ và tên: Lê Văn C
+   Email: levanc@example.org
+   SĐT: 0912.345.678
+   Địa chỉ: 789 Đường MNO, Quận 3, Đà Nẵng
+
+# Danh sách nhân viên công ty ABC
+4. Nguyễn Đình D | nguyendinhd@abc.com | 0777-888-999 | 12 Nguyễn Huệ, TP.HCM
+5. Phạm Xuân E | phamxuane@abc.com | 0355.123.456 | 45 Trần Phú, Hà Nội
