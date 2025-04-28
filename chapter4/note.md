@@ -1,0 +1,2 @@
+- File spam_classification.ipynb cũng cùng phương pháp với spam_classification_new.ipynb nhưng lại cho ra độ chính xác
+thấp, nguyên nhân là do dữ liệu test của spam_classification.ipynb là dữ liệu chưa được nhìn thấy trước đó, pattern của nó khác với dữ liệu train, trong khi spam_classification_new.ipynb là dữ liệu đã được nhìn thấy trước đó, pattern của nó giống với dữ liệu train.

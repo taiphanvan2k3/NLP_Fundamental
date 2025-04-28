@@ -1,0 +1,9 @@
+- CNN: ko nhắm được ngữ cảnh, tốt trên xử lý ảnh nhưng trên 1D thì chỉ lấy đc đặc trưng cục bộ thôi -> CNN 1D ko hiêu quả
+- Simple RNN: nắm đc ngữ cảnh, phù hợp với xử lý chuỗi. RNN ghi nhớ đc ngắn thôi, chứ dài thì k đc
+- LSTM: khắc phục khả năng ghi nhớ của RNN (ngắn hạn và dài hạn đều ghi nhớ đc), nó là sự kết hợp của nhiều RNN
+- BI-LSTM:sử dụng 2 LSTM (xuôi, ngược) -> thời gian chạy tăng lên -> F1 score, accuracy cũng tăng lên
+
+- IF-IDF: trong NLP bây giờ ít dùng, nên dùng Word2Vect,...
+- Word2Vect khác gì ...
+- np.mean(..., axis=0)
+→ Tính trung bình từng chiều của tất cả các vector → ra một vector duy nhất đại diện cho cả câu (gọi là sentence embedding).
